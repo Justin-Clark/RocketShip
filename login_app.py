@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+''' GUI Program to send you to space if you are elon musk '''
+
 # Justin Clark
 # 2021/11/19
 
